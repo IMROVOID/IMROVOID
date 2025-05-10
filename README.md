@@ -5,7 +5,7 @@
 <p align="left">As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.</p>
 
 <h3 align="left">Game Development</h3>
-<p align="left">I specialize in game development using **Unreal Engine**, with a focus on **Blueprints**. Currently, I'm working on an action shooter game called **Hotel Ghods**, which you can check out here: <a href="https://voidwalker.ir/games/hote-ghods/" target="_blank">Hotel Ghods</a>. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.</p>
+<p align="left">I specialize in game development using **Unreal Engine**, with a focus on **Blueprints**. Currently, I'm working on an action shooter game called **Hotel Ghods**, which you can check out here: <a href="https://voidwalker.ir/games/hotelghods/" target="_blank">Hotel Ghods</a>. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.</p>
 
 <h3 align="left">Programming & Web Design</h3>
 <p align="left">Programming is another key area of my expertise. I am comfortable working with languages like Python, Html, CSS and JavaScript. Additionally, I design sleek, responsive websites using tools like Figma, Visual Studio Code, and cPanel, ensuring an excellent user experience across all devices. One of my recent projects is **FilmArcade**, a movie stream and download website that you can view here: <a href="https://filmarcade.xlvirus.ir/" target="_blank">FilmArcade</a>.</p>
