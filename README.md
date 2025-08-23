@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/T164HHp/XL-Virus-V3-0-Copy.png"  />
+<img align="right" height="150" src="https://ik.imagekit.io/ROVOID/ROVOID_512.jpg"  />
 
 ###
 
