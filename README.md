@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 im Roham</h1>
+<h1 align="left">hey there 👋 im Roham</h1>
 
 ###
 
