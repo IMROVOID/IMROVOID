@@ -1,3 +1,5 @@
+<br>
+
 <h1 align="center">hey there 👋 im Roham</h1>
 
 ###
@@ -8,7 +10,31 @@
 
 <br clear="both">
 
-<p align="left">I'm a passionate and creative professional from Iran, specializing in Graphic Design, Programming, and Game Development. With years of experience in the industry, I've developed a deep understanding of visual storytelling and interactive design. I also have some small experience on android studio and kotlin language.<br><br>Graphic Design & Video Editing<br><br>As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.<br><br>Game Development<br><br>I specialize in game development using Unreal Engine, with a focus on Blueprints. Currently, I'm working on a horror first person game called VOID PROTOCOL. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.<br><br>Programming & Web Design<br><br>Programming is another key area of my expertise. I develop websites using HTML, CSS, JS, PHP and React and Node js. Additionally, I design sleek, responsive websites using tools like Figma, and Visual Studio Code ensuring an excellent user experience across all devices. Some of my recent projects include:<br><br>Mega Money (megamoney.com): A decentralized crypto lottery platform.<br><br>Seekr (seekr.rovoid.ir): A real-world Hide and Seek Game with lots of challenges and cool features through a 3D map in real life.<br><br>Evento (myevento.ir): A COD Mobile and COD Warzone tournaments platform with Clans, Friends, Shop and Inventory system, Free Rooms with real prizes through a prize pool, and Monthly Prizes to the highest-ranked users.<br><br>I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.<br><br>For web & game development inquiries, visit rovoid.ir or contact its.rovoid@gmail.com</p>
+<p align="left">
+I'm a passionate and creative professional from Iran, specializing in Graphic Design, Programming, and Game Development. With years of experience in the industry, I've developed a deep understanding of visual storytelling and interactive design. I also have some small experience with Android Studio and the Kotlin language.
+<br><br>
+<strong>Graphic Design & Video Editing</strong>
+<br>
+As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.
+<br><br>
+<strong>Game Development</strong>
+<br>
+I specialize in game development using <strong>Unreal Engine</strong>, with a focus on <strong>Blueprints</strong>. Currently, I'm working on a horror first-person game called <strong>VOID PROTOCOL</strong>. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.
+<br><br>
+<strong>Programming & Web Design</strong>
+<br>
+Programming is another key area of my expertise. I develop websites using HTML, CSS, JS, PHP, React, and Node.js. I use Figma to design intuitive UI/UX prototypes and then bring those designs to life by coding fully responsive and SEO-optimized websites. Some of my recent projects include:
+<br>
+<ul>
+<li><b>Mega Money (megamoney.com):</b> A decentralized crypto lottery platform.</li>
+<li><b>Seekr (seekr.rovoid.ir):</b> A real-world Hide and Seek game with challenges and cool features through a 3D map in real life.</li>
+<li><b>Evento (myevento.ir):</b> A COD Mobile and COD Warzone tournaments platform with Clans, Friends, a Shop and Inventory system, free rooms with real prizes from a prize pool, and monthly prizes for the highest-ranked users.</li>
+</ul>
+<br>
+I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.
+<br><br>
+For web & game development inquiries, visit <a href="http://rovoid.ir/">rovoid.ir</a> or contact <a href="mailto:its.rovoid@gmail.com">its.rovoid@gmail.com</a>
+</p>
 
 ###
 
