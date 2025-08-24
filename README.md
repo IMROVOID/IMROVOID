@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">I'm a passionate and creative professional from Iran, specializing in Graphic Design, Programming, and Game Development. With years of experience in the industry, I've developed a deep understanding of visual storytelling and interactive design.<br><br>Graphic Design & Video Editing<br>As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.<br><br>Game Development<br>I specialize in game development using **Unreal Engine**, with a focus on **Blueprints**. Currently, I'm working on an action shooter game called **Hotel Ghods**, which you can check out here: Hotel Ghods. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.<br><br>Programming & Web Design<br>Programming is another key area of my expertise. I am comfortable working with languages like Python, Html, CSS and JavaScript. Additionally, I design sleek, responsive websites using tools like Figma, Visual Studio Code, and cPanel, ensuring an excellent user experience across all devices. One of my recent projects is **FilmArcade**, a movie stream and download website that you can view here: FilmArcade.<br><br>I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.</p>
 
 ###
@@ -57,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=IMROVOID&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
