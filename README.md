@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="right" height="150" src="https://ik.imagekit.io/ROVOID/ROVOID_512.jpg"  />
 
 ###
