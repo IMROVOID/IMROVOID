@@ -26,9 +26,9 @@ I specialize in game development using <strong>Unreal Engine</strong>, with a fo
 Programming is another key area of my expertise. I develop websites using HTML, CSS, JS, PHP, React, and Node.js. I use Figma to design intuitive UI/UX prototypes and then bring those designs to life by coding fully responsive and SEO-optimized websites. Some of my recent projects include:
 <br>
 <ul>
-<li><b>Mega Money (megamoney.com):</b> A decentralized crypto lottery platform.</li>
-<li><b>Seekr (seekr.rovoid.ir):</b> A real-world Hide and Seek game with challenges and cool features through a 3D map in real life.</li>
-<li><b>Evento (myevento.ir):</b> A COD Mobile and COD Warzone tournaments platform with Clans, Friends, a Shop and Inventory system, free rooms with real prizes from a prize pool, and monthly prizes for the highest-ranked users.</li>
+<li><b>Mega Money (<a href="https://megamoney.com/" target="_blank">megamoney.com</a>):</b> A decentralized crypto lottery platform.</li>
+<li><b>Seekr (<a href="https://seekr.rovoid.ir/" target="_blank">seekr.rovoid.ir</a>):</b> A real-world Hide and Seek game with challenges and cool features through a 3D map in real life.</li>
+<li><b>Evento (<a href="https://myevento.ir/" target="_blank">myevento.ir</a>):</b> A COD Mobile and COD Warzone tournaments platform with Clans, Friends, a Shop and Inventory system, free rooms with real prizes from a prize pool, and monthly prizes for the highest-ranked users.</li>
 </ul>
 <br>
 I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.
