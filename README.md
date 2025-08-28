@@ -17,6 +17,10 @@ I'm a passionate and creative professional from Iran, specializing in Graphic De
 <br>
 As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.
 <br><br>
+<strong>Desktop & Mobile Development</strong>
+<br>
+I have a strong proficiency in cross-platform development with <strong>Dart and Flutter</strong>, building high-performance, natively compiled applications for mobile, web, and desktop from a single codebase. This very application, ETH Hunter, is a testament to my skills in creating polished and functional desktop experiences with Flutter.
+<br><br>
 <strong>Game Development</strong>
 <br>
 I specialize in game development using <strong>Unreal Engine</strong>, with a focus on <strong>Blueprints</strong>. Currently, I'm working on a horror first-person game called <strong>VOID PROTOCOL</strong>. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.
