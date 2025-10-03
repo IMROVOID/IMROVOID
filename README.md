@@ -43,7 +43,7 @@ As a skilled Graphic Designer, I work extensively with Adobe Photoshop, Illustra
 I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether crafting a beautiful interface, building a web platform, or developing an innovative game mechanic, I thrive on turning ideas into reality.
 <br><br>
 
-For web & game development inquiries, visit <a href="http://rovoid.ir/">rovoid.ir</a> or contact <a href="mailto:its.rovoid@gmail.com">its.rovoid@gmail.com</a>
+For App, Web & Game Development inquiries, visit <a href="http://rovoid.ir/">rovoid.ir</a> or contact <a href="mailto:its.rovoid@gmail.com">its.rovoid@gmail.com</a>
 </p>
 
 ###
