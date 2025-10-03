@@ -11,35 +11,40 @@
 <br clear="both">
 
 <p align="left">
-I'm a passionate and creative professional from Iran, specializing in Graphic Design, Programming, and Game Development. With years of experience in the industry, I've developed a deep understanding of visual storytelling and interactive design. I also have some small experience with Android Studio and the Kotlin language.
+I'm a passionate and creative professional from Iran, specializing in App & Web Development, Game Development, and Graphic Design. With years of experience in the industry, I've developed a deep understanding of visual storytelling, interactive design, and full-stack development. I also have some experience with Android Studio and Kotlin.
 <br><br>
-<strong>Desktop & Mobile Development</strong>
+
+<strong>Desktop & Mobile App Development</strong>
 <br>
-I have a strong proficiency in cross-platform development with <strong>Dart and Flutter</strong>, building high-performance, natively compiled applications for mobile, web, and desktop from a single codebase. This very application, ETH Hunter, is a testament to my skills in creating polished and functional desktop experiences with Flutter.
+I have strong proficiency in cross-platform development with <strong>Dart and Flutter</strong>, building high-performance, natively compiled applications for mobile, web, and desktop from a single codebase. This very application, ETH Hunter, is a testament to my skills in creating polished and functional desktop experiences with Flutter. I also use Python for automation tools, utility apps, and Telegram bots.
 <br><br>
-<strong>Programming & Web Design</strong>
+
+<strong>Web Development</strong>
 <br>
-Programming is another key area of my expertise. I develop websites using HTML, CSS, JS, PHP, <strong>Laravel</strong>, React, and Node.js. I use Figma to design intuitive UI/UX prototypes and then bring those designs to life by coding fully responsive and SEO-optimized websites. Some of my recent projects include:
+Web development is another key area of my expertise. I build websites using <strong>HTML, CSS, JavaScript, PHP, Laravel, React, and Node.js</strong>. I design intuitive UI/UX prototypes with Figma and translate them into fully responsive, SEO-optimized, and modern web apps. Some of my recent projects include:
 <br>
 <ul>
 <li><b>Mega Money (<a href="https://megamoney.com/" target="_blank">megamoney.com</a>):</b> A decentralized crypto lottery platform.</li>
-<li><b>Seekr (<a href="https://seekr.rovoid.ir/" target="_blank">seekr.rovoid.ir</a>):</b> A real-world Hide and Seek game with challenges and cool features through a 3D map in real life.</li>
-<li><b>Evento (<a href="https://myevento.ir/" target="_blank">myevento.ir</a>):</b> A COD Mobile and COD Warzone tournaments platform with Clans, Friends, a Shop and Inventory system, free rooms with real prizes from a prize pool, and monthly prizes for the highest-ranked users.</li>
+<li><b>Seekr (<a href="https://seekr.rovoid.ir/" target="_blank">seekr.rovoid.ir</a>):</b> A real-world Hide and Seek game with challenges and features through a 3D map.</li>
+<li><b>Evento (<a href="https://myevento.ir/" target="_blank">myevento.ir</a>):</b> A COD Mobile and COD Warzone tournaments platform with Clans, Friends, Shop & Inventory systems, free rooms with real prizes, and monthly prizes for top-ranked users.</li>
 </ul>
 <br>
+
 <strong>Game Development</strong>
 <br>
-I specialize in game development using <strong>Unreal Engine</strong>, with a focus on <strong>Blueprints</strong>. Currently, I'm working on a horror first-person game called <strong>VOID PROTOCOL</strong>. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.
+I specialize in game development using <strong>Unreal Engine</strong>, focusing on <strong>Blueprints</strong>. Currently, I'm working on a horror first-person game called <strong>VOID PROTOCOL</strong>, which highlights my skills in game mechanics, level design, and immersive storytelling.
 <br><br>
+
 <strong>Graphic Design & Video Editing</strong>
 <br>
-As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.
+As a skilled Graphic Designer, I work extensively with Adobe Photoshop, Illustrator, Premiere Pro, and After Effects to create logos, posters, banners, logo motion, and promotional videos. I also provide color grading and cinematic-style video production to bring projects to life with professional quality.
 <br><br>
-I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.
+
+I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether crafting a beautiful interface, building a web platform, or developing an innovative game mechanic, I thrive on turning ideas into reality.
 <br><br>
+
 For web & game development inquiries, visit <a href="http://rovoid.ir/">rovoid.ir</a> or contact <a href="mailto:its.rovoid@gmail.com">its.rovoid@gmail.com</a>
 </p>
-
 
 ###
 
