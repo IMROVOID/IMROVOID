@@ -21,14 +21,8 @@ I have strong proficiency in cross-platform development with <strong>Dart and Fl
 
 <strong>Web Development</strong>
 <br>
-Web development is another key area of my expertise. I build websites using <strong>HTML, CSS, JavaScript, PHP, Laravel, React, and Node.js</strong>. I design intuitive UI/UX prototypes with Figma and translate them into fully responsive, SEO-optimized, and modern web apps. Some of my recent projects include:
-<br>
-<ul>
-<li><b>Mega Money (<a href="https://megamoney.com/" target="_blank">megamoney.com</a>):</b> A decentralized crypto lottery platform.</li>
-<li><b>Seekr (<a href="https://seekr.rovoid.ir/" target="_blank">seekr.rovoid.ir</a>):</b> A real-world Hide and Seek game with challenges and features through a 3D map.</li>
-<li><b>Evento (<a href="https://myevento.ir/" target="_blank">myevento.ir</a>):</b> A COD Mobile and COD Warzone tournaments platform with Clans, Friends, Shop & Inventory systems, free rooms with real prizes, and monthly prizes for top-ranked users.</li>
-</ul>
-<br>
+Web development is another key area of my expertise. I build websites using <strong>HTML, CSS, JavaScript, PHP, Laravel, React, and Node.js</strong>. I design intuitive UI/UX prototypes with Figma and translate them into fully responsive, SEO-optimized, and modern web apps.
+<br><br>
 
 <strong>Game Development</strong>
 <br>
