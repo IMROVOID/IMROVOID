@@ -8,41 +8,25 @@
 
 ###
 
-<br clear="both">
+I'm a Full Stack Software Developer specializing in building scalable web applications, desktop software, and cross-platform mobile solutions. I focus on architecting resilient systems, writing maintainable code, and delivering seamless user experiences from the database layer to the client interface.
 
-<p align="left">
-I'm a passionate and creative professional from Iran, specializing in App & Web Development, Game Development, and Graphic Design. With years of experience in the industry, I've developed a deep understanding of visual storytelling, interactive design, and full-stack development. I also have some experience with Android Studio and Kotlin.
-<br><br>
+## Technical Stack
 
-<strong>Desktop & Mobile App Development</strong>
-<br>
-I have strong proficiency in cross-platform development with <strong>Dart and Flutter</strong>, building high-performance, natively compiled applications for mobile, web, and desktop from a single codebase. This very application, ETH Hunter, is a testament to my skills in creating polished and functional desktop experiences with Flutter. I also use Python for automation tools, utility apps, and Telegram bots.
-<br><br>
+My core development expertise spans across modern web frameworks, strongly typed languages, and versatile backend environments.
 
-<strong>Web Development</strong>
-<br>
-Web development is another key area of my expertise. I build websites using <strong>HTML, CSS, JavaScript, PHP, Laravel, React, and Node.js</strong>. I design intuitive UI/UX prototypes with Figma and translate them into fully responsive, SEO-optimized, and modern web apps.
-<br><br>
+* **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
+* **Backend:** Node.js, PHP, Laravel, Python
+* **Desktop:** Rust, Flutter
+* **Mobile:** Flutter (Dart), Kotlin
+* **Database:** MongoDB, SQL
 
-<strong>Game Development</strong>
-<br>
-I specialize in game development using <strong>Unreal Engine</strong>, focusing on <strong>Blueprints</strong>. Currently, I'm working on a horror first-person game called <strong>VOID PROTOCOL</strong>, which highlights my skills in game mechanics, level design, and immersive storytelling.
-<br><br>
+## Multimedia & Technical Arts
 
-<strong>Graphic Design & Video Editing</strong>
-<br>
-As a skilled Graphic Designer, I work extensively with Adobe Photoshop, Illustrator, Premiere Pro, and After Effects to create logos, posters, banners, logo motion, and promotional videos. I also provide color grading and cinematic-style video production to bring projects to life with professional quality.
-<br><br>
-
-I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether crafting a beautiful interface, building a web platform, or developing an innovative game mechanic, I thrive on turning ideas into reality.
-<br><br>
-
-For App, Web & Game Development inquiries, visit <a href="http://rovoid.ir/">rovoid.ir</a> or contact <a href="mailto:its.rovoid@gmail.com">its.rovoid@gmail.com</a>
-</p>
+Alongside traditional software engineering, I have practical experience in visual media, including building code-driven motion graphics with Remotion, as well as working in Unreal Engine, Adobe Premiere, and After Effects.
 
 ###
 
-<h3 align="left">❤️ Support My Work</h3>
+<h3 align="left">Support My Work</h3>
 
 ###
 
