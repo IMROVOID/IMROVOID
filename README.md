@@ -47,14 +47,6 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
-<h3 align="center">📅 Isometric Commit Calendar</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IMROVOID/IMROVOID/output/metrics.svg" alt="Metrics Isocalendar" />
-</div>
-
 ###
 
 <h3 align="left">Support My Work</h3>
