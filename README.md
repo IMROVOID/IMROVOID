@@ -4,11 +4,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
 I'm a Full Stack Software Developer specializing in building scalable web applications, desktop software, and cross-platform mobile solutions. I focus on architecting resilient systems, writing maintainable code, and delivering seamless user experiences from the database layer to the client interface.
+
+###
 
 ### Technical Stack
 
@@ -26,26 +28,40 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center">
+  <img src="assets/services.svg" alt="My Services" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/stacks.svg" alt="My Stacks" width="100%" />
+</div>
+
+###
+
+<h3 align="left">Language and tools</h3>
 
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" /> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" /> <img src="https://skillicons.dev/icons?i=js" alt="javascript" /> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /> <img src="https://skillicons.dev/icons?i=react" alt="react" /> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /> <img src="https://skillicons.dev/icons?i=php" alt="php" /> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" /> <img src="https://skillicons.dev/icons?i=rust" alt="rust" /> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /> <img src="https://skillicons.dev/icons?i=dart" alt="dart" /> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" /> <img src="https://skillicons.dev/icons?i=py" alt="python" /> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" /> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /> <img src="https://skillicons.dev/icons?i=figma" alt="figma" /> <img src="https://skillicons.dev/icons?i=pr" alt="premiere" /> <img src="https://skillicons.dev/icons?i=ae" alt="aftereffects" /> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="typescript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" alt="javascript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=rust" alt="rust" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart" alt="dart" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" alt="python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" alt="figma" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=pr" alt="premiere" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ae" alt="aftereffects" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=unreal" alt="unreal" />
 </p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=12" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=12" width="49%" alt="top languages" />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" alt="Contribution Graph" />
+</div>
 
 ###
 
