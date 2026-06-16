@@ -62,11 +62,11 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=15" width="56%" alt="stats graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=13" width="43%" alt="top languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=15" width="55%" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=13" width="42%" alt="top languages" />
+</div>
 <br clear="both" />
-<img align="left" src="assets/spacer.svg?v=3" />
+<img align="left" src="assets/spacer.svg?v=4" />
 <br clear="both" />
 
 <div align="center">
