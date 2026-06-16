@@ -30,7 +30,7 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
-<p align="justify">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" /> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" /> <img src="https://skillicons.dev/icons?i=js" alt="javascript" /> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /> <img src="https://skillicons.dev/icons?i=react" alt="react" /> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /> <img src="https://skillicons.dev/icons?i=php" alt="php" /> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" /> <img src="https://skillicons.dev/icons?i=rust" alt="rust" /> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" /> <img src="https://skillicons.dev/icons?i=dart" alt="dart" /> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" /> <img src="https://skillicons.dev/icons?i=py" alt="python" /> <img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" /> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /> <img src="https://skillicons.dev/icons?i=figma" alt="figma" /> <img src="https://skillicons.dev/icons?i=pr" alt="premiere" /> <img src="https://skillicons.dev/icons?i=ae" alt="aftereffects" /> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" />
 </p>
 
