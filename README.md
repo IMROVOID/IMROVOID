@@ -1,6 +1,8 @@
 <br>
 
-<h3 align="center"><big>hey there 👋 im Roham</big></h3>
+<div align="center">
+  <img src="assets/ROVOID_Banner_Rounded.webp" alt="hey there 👋 im Roham" width="100%" />
+</div>
 
 ###
 
@@ -26,18 +28,6 @@ My core development expertise spans across modern web frameworks, strongly typed
 
 Alongside traditional software engineering, I have practical experience in visual media, including building code-driven motion graphics with Remotion, as well as working in Unreal Engine, Adobe Premiere, and After Effects.
 
-###
-
-<div align="center">
-  <img src="assets/services.svg" alt="My Services" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/stacks.svg" alt="My Stacks" width="100%" />
-</div>
-
-###
-
 <h3 align="left">Language and tools</h3>
 
 ###
@@ -48,19 +38,40 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<h3 align="left">My Services</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=12" width="49%" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=12" width="49%" alt="top languages" />
+  <img src="assets/main_services.svg?v=3" alt="My Services" width="100%" />
 </div>
 
 ###
 
+<h4 align="left">Other Services</h4>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" alt="Contribution Graph" />
+  <img src="assets/other_services.svg?v=3" alt="Other Services" width="100%" />
+</div>
+
+###
+
+<h3 align="left">My Stats :</h3>
+
+###
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=15" width="56.5%" alt="stats graph" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=13" width="42.5%" alt="top languages" />
+</div>
+<br clear="both" />
+<img align="left" src="assets/spacer.svg?v=3" />
+<br clear="both" />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=16" width="100%" alt="Contribution Graph" />
 </div>
 
 ###
