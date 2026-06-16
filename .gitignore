@@ -1,0 +1,6 @@
+/.agents
+/specs
+*.py
+/.specify
+temp_langs.svg
+temp_stats.svg

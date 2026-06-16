@@ -1,0 +1,61 @@
+
+<svg width="1000" height="420" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="50" font-family="-apple-system, system-ui, sans-serif" font-size="28" font-weight="bold" fill="#ffffff">⚙️ My Stacks</text>
+  
+  
+    <g transform="translate(0, 80)">
+      <rect width="490" height="100" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="8" fill="#161b22" />
+      <image href="https://skillicons.dev/icons?i=ts" x="32" y="38" width="24" height="24" />
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">TypeScript</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Strongly Typed JS</text>
+    </g>
+  
+  
+    <g transform="translate(510, 80)">
+      <rect width="490" height="100" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="8" fill="#161b22" />
+      <image href="https://skillicons.dev/icons?i=react" x="32" y="38" width="24" height="24" />
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">React & Next.js</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Frontend Frameworks</text>
+    </g>
+  
+  
+  
+    <g transform="translate(0, 200)">
+      <rect width="490" height="100" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="8" fill="#161b22" />
+      <image href="https://skillicons.dev/icons?i=nodejs" x="32" y="38" width="24" height="24" />
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Node.js</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Backend Runtime</text>
+    </g>
+  
+  
+    <g transform="translate(510, 200)">
+      <rect width="490" height="100" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="8" fill="#161b22" />
+      <image href="https://skillicons.dev/icons?i=python" x="32" y="38" width="24" height="24" />
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Python</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Scripting & Backend</text>
+    </g>
+  
+  
+  
+    <g transform="translate(0, 320)">
+      <rect width="490" height="100" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="8" fill="#161b22" />
+      <image href="https://skillicons.dev/icons?i=flutter" x="32" y="38" width="24" height="24" />
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Flutter & Mobile</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Cross-Platform Apps</text>
+    </g>
+  
+  
+    <g transform="translate(510, 320)">
+      <rect width="490" height="100" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="8" fill="#161b22" />
+      <image href="https://skillicons.dev/icons?i=ae" x="32" y="38" width="24" height="24" />
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Creative Suite</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Pr, Ae, Figma</text>
+    </g>
+  
+</svg>

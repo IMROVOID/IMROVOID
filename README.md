@@ -1,16 +1,20 @@
 <br>
 
-<h1 align="center">hey there 👋 im Roham</h1>
+<div align="center">
+  <img src="assets/ROVOID_Banner_Rounded.webp" alt="hey there 👋 im Roham" width="100%" />
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
 I'm a Full Stack Software Developer specializing in building scalable web applications, desktop software, and cross-platform mobile solutions. I focus on architecting resilient systems, writing maintainable code, and delivering seamless user experiences from the database layer to the client interface.
 
-## Technical Stack
+###
+
+### Technical Stack
 
 My core development expertise spans across modern web frameworks, strongly typed languages, and versatile backend environments.
 
@@ -20,9 +24,55 @@ My core development expertise spans across modern web frameworks, strongly typed
 * **Mobile:** Flutter (Dart), Kotlin
 * **Database:** MongoDB, SQL
 
-## Multimedia & Technical Arts
+### Multimedia & Technical Arts
 
 Alongside traditional software engineering, I have practical experience in visual media, including building code-driven motion graphics with Remotion, as well as working in Unreal Engine, Adobe Premiere, and After Effects.
+
+<h3 align="left">Language and tools</h3>
+
+###
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="typescript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" alt="javascript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=rust" alt="rust" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart" alt="dart" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" alt="python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" alt="figma" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=pr" alt="premiere" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ae" alt="aftereffects" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=unreal" alt="unreal" />
+</p>
+
+###
+
+<h3 align="left">My Services</h3>
+
+###
+
+<div align="center">
+  <img src="assets/main_services.svg?v=3" alt="My Services" width="100%" />
+</div>
+
+###
+
+<h4 align="left">Other Services</h4>
+
+###
+
+<div align="center">
+  <img src="assets/other_services.svg?v=3" alt="Other Services" width="100%" />
+</div>
+
+###
+
+<h3 align="left">My Stats :</h3>
+
+###
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=15" width="56.5%" alt="stats graph" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=13" width="42.5%" alt="top languages" />
+</div>
+<br clear="both" />
+<img align="left" src="assets/spacer.svg?v=3" />
+<br clear="both" />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=16" width="100%" alt="Contribution Graph" />
+</div>
 
 ###
 
@@ -39,83 +89,3 @@ Alongside traditional software engineering, I have practical experience in visua
 | **USDT** (TRC20) | `THMe6FdXkA2Pw45yKaXBHRnkX3fjyKCzfy` |
 | **Solana** (SOL) | `9QZHMTN4Pu6BCxiN2yABEcR3P4sXtBjkog9GXNxWbav1` |
 | **TON** | `UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC` |
-
-###
-
-<img align="right" height="150" src="https://ik.imagekit.io/ROVOID/ROVOID_512.jpg"  />
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=IMROVOID&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/IMROVOID/IMROVOID/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="37" height="25" alt="codesandbox logo"  />
-  <a href="https://codepen.io/ROVOID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" alt="codepen logo"  />
-  </a>
-  <a href="https://linktr.ee/ROVOID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="37" height="25" alt="linktree logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/roham-andarzgouu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/rovoid_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:its.rovoid@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
