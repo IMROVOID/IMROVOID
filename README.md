@@ -38,6 +38,16 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
+<h3 align="left">Language and tools (Stylized)</h3>
+
+###
+
+<div align="center">
+  <img src="assets/skills.svg?v=1" width="100%" alt="Languages and tools" />
+</div>
+
+###
+
 <h3 align="left">My Services</h3>
 
 ###
