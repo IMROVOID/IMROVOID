@@ -14,29 +14,12 @@ I'm a Full Stack Software Developer specializing in building scalable web applic
 
 ###
 
-### Technical Stack
 
-My core development expertise spans across modern web frameworks, strongly typed languages, and versatile backend environments.
-
-* **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS
-* **Backend:** Node.js, PHP, Laravel, Python
-* **Desktop:** Rust, Flutter
-* **Mobile:** Flutter (Dart), Kotlin
-* **Database:** MongoDB, SQL
 
 ### Multimedia & Technical Arts
 
 Alongside traditional software engineering, I have practical experience in visual media, including building code-driven motion graphics with Remotion, as well as working in Unreal Engine, Adobe Premiere, and After Effects.
 
-<h3 align="left">Language and tools</h3>
-
-###
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="typescript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" alt="javascript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=rust" alt="rust" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart" alt="dart" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" alt="python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongo" alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma" alt="figma" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=pr" alt="premiere" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ae" alt="aftereffects" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=unreal" alt="unreal" />
-</p>
-
-###
 
 <h3 align="left">Technical Stack</h3>
 
@@ -73,9 +56,9 @@ Alongside traditional software engineering, I have practical experience in visua
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=11" width="55%" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=9" width="42%" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0A0D12&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=11" width="55%" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0A0D12&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=9" width="42%" alt="top languages" />
   <img src="assets/spacer.svg?v=6" width="100%" height="4" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0A0D12&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph" />
 </div>
 
 ###
