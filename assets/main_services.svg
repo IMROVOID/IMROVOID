@@ -91,7 +91,7 @@
 
       </g>
       <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">App Development</text>
-      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Desktop, web & mobile apps.</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Desktop, web &amp; mobile apps.</text>
     </g><g transform="translate(0, 240)">
       <rect x="0.5" y="0.5" width="489" height="99" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
       <rect x="20" y="26" width="48" height="48" rx="6" fill="#161b22" />
@@ -135,5 +135,5 @@
 
       </g>
       <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Python Development</text>
-      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Scripting & Backend solutions.</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Scripting &amp; Backend solutions.</text>
     </g></svg>
