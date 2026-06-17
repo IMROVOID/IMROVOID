@@ -56,9 +56,9 @@ Alongside traditional software engineering, I have practical experience in visua
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0A0D12&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=11" width="55%" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0A0D12&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=9" width="42%" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=09090b&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=27272a&count_private=true&border_radius=11" width="55%" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=09090b&title_color=ffffff&text_color=c9d1d9&border_color=27272a&border_radius=9" width="42%" alt="top languages" />
   <img src="assets/spacer.svg?v=6" width="100%" height="4" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0A0D12&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=09090b&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph" />
 </div>
 
 ###
