@@ -1,11 +1,15 @@
 import sys
+import qrcode
+import qrcode.image.svg
+import re
 
 cryptos = [
     ("Bitcoin", "BTC", "bc1qd35yqx3xt28dy6fd87xzd62cj7ch35p68ep3p8", "bitcoin:", "support_btc.svg"),
     ("Ethereum", "ETH", "0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3", "ethereum:", "support_eth.svg"),
+    ("USDT (BNB)", "USDT", "0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3", "bsc:", "support_usdt_bnb.svg"),
     ("USDT (TRC20)", "USDT", "THMe6FdXkA2Pw45yKaXBHRnkX3fjyKCzfy", "tron:", "support_usdt.svg"),
-    ("Solana", "SOL", "9QZHMTN4Pu6BCxiN2yABEcR3P4sXtBjkog9GXNxWbav1", "solana:", "support_sol.svg"),
-    ("TON", "TON", "UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC", "ton://transfer/", "support_ton.svg")
+    ("TON", "TON", "UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC", "ton://transfer/", "support_ton.svg"),
+    ("Solana", "SOL", "7NoEScTxHnmgKCNDsUGzQs2jZATZMPAz8UdcWko6Y5Gj", "solana:", "support_sol.svg")
 ]
 
 # GitHub Dark Theme Colors (as per the main branch)
@@ -16,14 +20,26 @@ text_color = "#ffffff"
 desc_color = "#8b949e"
 
 for name, symbol, address, uri_scheme, filename in cryptos:
-    # We create a full-width container for each address
-    # Height is 80 to match previous box height
-    svg = f'''<svg width="1000" height="80" xmlns="http://www.w3.org/2000/svg">
-      <rect x="0.5" y="0.5" width="999" height="79" rx="12" fill="{bg}" stroke="{border}" stroke-width="1"/>
-      <rect x="16" y="16" width="48" height="48" rx="6" fill="{inner_bg}" />
-      <text x="40" y="45" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="bold" fill="{text_color}">{symbol}</text>
-      <text x="80" y="36" font-family="-apple-system, system-ui, sans-serif" font-size="18" font-weight="bold" fill="{text_color}">{name}</text>
-      <text x="80" y="58" font-family="monospace" font-size="14" fill="{desc_color}">{address}</text>
+    full_uri = f"{uri_scheme}{address}"
+    
+    # Generate QR Code
+    factory = qrcode.image.svg.SvgPathImage
+    img = qrcode.make(full_uri, image_factory=factory, box_size=10, border=2)
+    qr_svg_str = img.to_string().decode('utf-8')
+    
+    # Extract viewBox and path
+    viewbox = re.search(r'viewBox="(.*?)"', qr_svg_str).group(1)
+    path_d = re.search(r'<path d="(.*?)"', qr_svg_str).group(1)
+    
+    # The nested SVG for the QR code, size 110x110
+    # x = (140 - 110)/2 = 15, y = 12
+    qr_element = f'<svg x="15" y="12" width="110" height="110" viewBox="{viewbox}"><rect width="100%" height="100%" fill="white" rx="10%" ry="10%" /><path d="{path_d}" fill="#000000" /></svg>'
+
+    # We create a 140x150 box
+    svg = f'''<svg width="140" height="150" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0.5" y="0.5" width="139" height="149" rx="14" fill="{bg}" stroke="{border}" stroke-width="1"/>
+      {qr_element}
+      <text x="70" y="140" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif" font-size="15" font-weight="500" fill="{text_color}">{name}</text>
     </svg>'''
     
     with open(f'assets/{filename}', 'w', encoding='utf-8') as f:

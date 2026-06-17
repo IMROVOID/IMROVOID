@@ -70,11 +70,9 @@ Alongside traditional software engineering, I have practical experience in visua
 <p align="left">If you find my projects and work useful, please consider a donation. As I am based in Iran, cryptocurrency is the only way I can receive support. Thank you!</p>
 
 <div align="center">
-  <a href="bitcoin:bc1qd35yqx3xt28dy6fd87xzd62cj7ch35p68ep3p8"><img src="assets/support_btc.svg?v=1" alt="Bitcoin Address" width="100%" /></a><br>
-  <a href="ethereum:0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3"><img src="assets/support_eth.svg?v=1" alt="Ethereum Address" width="100%" /></a><br>
-  <a href="tron:THMe6FdXkA2Pw45yKaXBHRnkX3fjyKCzfy"><img src="assets/support_usdt.svg?v=1" alt="USDT Address" width="100%" /></a><br>
-  <a href="solana:9QZHMTN4Pu6BCxiN2yABEcR3P4sXtBjkog9GXNxWbav1"><img src="assets/support_sol.svg?v=1" alt="Solana Address" width="100%" /></a><br>
-  <a href="ton://transfer/UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC"><img src="assets/support_ton.svg?v=1" alt="TON Address" width="100%" /></a>
+  <a href="bitcoin:bc1qd35yqx3xt28dy6fd87xzd62cj7ch35p68ep3p8"><img src="assets/support_btc.svg?v=5" alt="Bitcoin Address" width="30%" /></a><img src="assets/spacer.svg" width="5%" /><a href="ethereum:0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3"><img src="assets/support_eth.svg?v=5" alt="Ethereum Address" width="30%" /></a><img src="assets/spacer.svg" width="5%" /><a href="bsc:0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3"><img src="assets/support_usdt_bnb.svg?v=5" alt="USDT (BNB) Address" width="30%" /></a>
+  <img src="assets/spacer.svg" width="100%" height="20" />
+  <a href="tron:THMe6FdXkA2Pw45yKaXBHRnkX3fjyKCzfy"><img src="assets/support_usdt.svg?v=5" alt="USDT (TRC20) Address" width="30%" /></a><img src="assets/spacer.svg" width="5%" /><a href="ton://transfer/UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC"><img src="assets/support_ton.svg?v=5" alt="TON Address" width="30%" /></a><img src="assets/spacer.svg" width="5%" /><a href="solana:7NoEScTxHnmgKCNDsUGzQs2jZATZMPAz8UdcWko6Y5Gj"><img src="assets/support_sol.svg?v=5" alt="Solana Address" width="30%" /></a>
 </div>
 
 <details>
@@ -82,7 +80,8 @@ Alongside traditional software engineering, I have practical experience in visua
   <br>
   <b>Bitcoin (BTC):</b> <code>bc1qd35yqx3xt28dy6fd87xzd62cj7ch35p68ep3p8</code><br>
   <b>Ethereum (ETH):</b> <code>0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3</code><br>
+  <b>USDT (BNB):</b> <code>0xA39Dfd80309e881cF1464dDb00cF0a17bF0322e3</code><br>
   <b>USDT (TRC20):</b> <code>THMe6FdXkA2Pw45yKaXBHRnkX3fjyKCzfy</code><br>
-  <b>Solana (SOL):</b> <code>9QZHMTN4Pu6BCxiN2yABEcR3P4sXtBjkog9GXNxWbav1</code><br>
   <b>TON:</b> <code>UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC</code><br>
+  <b>Solana (SOL):</b> <code>7NoEScTxHnmgKCNDsUGzQs2jZATZMPAz8UdcWko6Y5Gj</code><br>
 </details>
