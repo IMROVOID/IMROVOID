@@ -1,0 +1,7 @@
+<svg width="1000" height="80" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0.5" y="0.5" width="999" height="79" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="16" y="16" width="48" height="48" rx="6" fill="#161b22" />
+      <text x="40" y="45" text-anchor="middle" font-family="-apple-system, system-ui, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">TON</text>
+      <text x="80" y="36" font-family="-apple-system, system-ui, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">TON</text>
+      <text x="80" y="58" font-family="monospace" font-size="14" fill="#8b949e">UQCp0OawnofpZTNZk-69wlqIx_wQpzKBgDpxY2JK5iynh3mC</text>
+    </svg>
