@@ -38,7 +38,7 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
-<h3 align="left">Language and tools (Stylized)</h3>
+<h3 align="left">Technical Stack</h3>
 
 ###
 
