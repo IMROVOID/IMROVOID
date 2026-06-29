@@ -1,0 +1,126 @@
+<svg width="1000" height="340" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0, 0)">
+      <rect x="0.5" y="0.5" width="489" height="99" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="6" fill="#161b22" />
+      <g transform="translate(32, 38)">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#c9d1d9"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M15.707 21.293a1 1 0 0 1-1.414 0l-1.586-1.586a1 1 0 0 1 0-1.414l5.586-5.586a1 1 0 0 1 1.414 0l1.586 1.586a1 1 0 0 1 0 1.414z" />
+  <path d="m18 13-1.375-6.874a1 1 0 0 0-.746-.776L3.235 2.028a1 1 0 0 0-1.207 1.207L5.35 15.879a1 1 0 0 0 .776.746L13 18" />
+  <path d="m2.3 2.3 7.286 7.286" />
+  <circle cx="11" cy="11" r="2" />
+</svg>
+
+      </g>
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#c9d1d9">1. Prototype &amp; Style</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Figma &amp; Google Stitch</text>
+    </g><g transform="translate(510, 0)">
+      <rect x="0.5" y="0.5" width="489" height="99" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="6" fill="#161b22" />
+      <g transform="translate(32, 38)">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#c9d1d9"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 20v2" />
+  <path d="M12 2v2" />
+  <path d="M17 20v2" />
+  <path d="M17 2v2" />
+  <path d="M2 12h2" />
+  <path d="M2 17h2" />
+  <path d="M2 7h2" />
+  <path d="M20 12h2" />
+  <path d="M20 17h2" />
+  <path d="M20 7h2" />
+  <path d="M7 20v2" />
+  <path d="M7 2v2" />
+  <rect x="4" y="4" width="16" height="16" rx="2" />
+  <rect x="8" y="8" width="8" height="8" rx="1" />
+</svg>
+
+      </g>
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#c9d1d9">2. SpecDriven Generation</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">AI Frameworks &amp; Exact Specs</text>
+    </g><g transform="translate(0, 120)">
+      <rect x="0.5" y="0.5" width="489" height="99" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="6" fill="#161b22" />
+      <g transform="translate(32, 38)">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#c9d1d9"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z" />
+  <path d="m9 12 2 2 4-4" />
+</svg>
+
+      </g>
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#c9d1d9">3. AI Optimization</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Bug Checks, Security &amp; SEO</text>
+    </g><g transform="translate(510, 120)">
+      <rect x="0.5" y="0.5" width="489" height="99" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+      <rect x="20" y="26" width="48" height="48" rx="6" fill="#161b22" />
+      <g transform="translate(32, 38)">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#c9d1d9"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" />
+  <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09" />
+  <path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z" />
+  <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05" />
+</svg>
+
+      </g>
+      <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#c9d1d9">4. Flawless Delivery</text>
+      <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Responsive &amp; Highly Maintainable</text>
+    </g><g transform="translate(0, 240)">
+  <rect x="0.5" y="0.5" width="999" height="99" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <rect x="20" y="26" width="48" height="48" rx="6" fill="#161b22" />
+  <g transform="translate(32, 38)">
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="#c9d1d9"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z" />
+</svg>
+
+  </g>
+  <text x="88" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="20" font-weight="bold" fill="#c9d1d9">AI Dev vs. Manual/Vibe Coding</text>
+  <text x="88" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="14" fill="#8b949e">Framework-driven AI yields flawless, secure code in a fraction of the time.</text>
+</g></svg>

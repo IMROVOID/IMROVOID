@@ -51,13 +51,44 @@ Alongside traditional software engineering, I have practical experience in visua
 
 ###
 
+<h3 align="left">How I Code</h3>
+
+###
+
+<p align="left">My entire development process is powered by a modern <strong>Spec-Driven AI</strong> workflow. Instead of naive "vibe coding", I rely on precise specifications, architectural blueprints, and specially trained AIs to ensure the resulting code is secure, completely responsive, flawlessly optimized for SEO, and highly maintainable.</p>
+
+<div align="center">
+  <img src="assets/how_i_code_steps.svg?v=1" alt="How I Code Process Steps" width="100%" />
+  <img src="assets/how_i_code_compare.svg?v=1" alt="Method Comparison" width="100%" />
+</div>
+
+<br>
+
+<details>
+  <summary><b>📊 Case Studies &amp; Research Proof</b> (Click to expand)</summary>
+  <br>
+  <p align="left">Here is the research and industry analysis supporting why Spec-Driven Development outperforms ad-hoc Vibe Coding:</p>
+  <ul>
+    <li><a href="https://developer.microsoft.com/blog/spec-driven-development-ai-native-engineering" target="_blank"><strong>Microsoft Dev Blog:</strong> Spec-Driven Development in AI-Native Engineering</a></li>
+    <li><a href="https://www.augmentcode.com/guides/vibe-coding-vs-spec-driven-development" target="_blank"><strong>Augment Code:</strong> Vibe Coding vs. Spec-Driven Development Guide</a></li>
+    <li><a href="https://blog.exceeds.ai/github-copilot-impact-analysis/#:~:text=GitClear's%20Q1%202026%20research%2C%20analyzing,by%20how%20teams%20measure%20outcomes." target="_blank"><strong>GitClear Analysis:</strong> GitHub Copilot Impact &amp; Refactoring Downtrend</a></li>
+    <li><a href="https://redmonk.com/rstephens/2025/07/31/spec-vs-vibes/" target="_blank"><strong>RedMonk:</strong> Spec-First Development vs. Vibe Coding</a></li>
+    <li><a href="https://intent-driven.dev/blog/2025/12/15/vibe-coding-vs-spec-driven-development/" target="_blank"><strong>Intent-Driven Dev:</strong> Vibe Coding vs. Spec-Driven Development</a></li>
+    <li><a href="https://arxiv.org/html/2602.00180v1#:~:text=Spec%2Dfirst%20works%20particularly%20well,the%20quality%20of%20generated%20code." target="_blank"><strong>arXiv Research:</strong> Why Spec-First Works for AI Code Generation Quality</a></li>
+    <li><a href="https://larridin.com/developer-productivity-hub/developer-productivity-benchmarks-2026" target="_blank"><strong>Productivity Hub:</strong> 2026 Developer Productivity &amp; AI Benchmarks</a></li>
+    <li><a href="https://leaddev.com/ai/ai-doesnt-create-great-developers-it-amplifies-them" target="_blank"><strong>LeadDev:</strong> AI Doesn't Create Great Developers, It Amplifies Them</a></li>
+    <li><a href="https://www.gitclear.com/ai_assistant_code_quality_2025_research" target="_blank"><strong>GitClear Research:</strong> AI Assistant Code Quality &amp; Maintainability Report</a></li>
+  </ul>
+</details>
+
+###
+
 <h3 align="left">My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=11" width="55%" alt="stats graph" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=9" width="42%" alt="top languages" />
-  <img src="assets/spacer.svg?v=6" width="100%" height="4" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=11" width="56.1%" alt="stats graph" /><img src="assets/spacer.svg" width="1.4%" height="1" /><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=9" width="42.5%" alt="top languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMROVOID&bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph" />
 </div>
 
