@@ -74,14 +74,15 @@ async function main() {
   }
 
   const user = json.data.user;
-  const publicCommits = user.contributionsCollection.totalCommitContributions;
-  const privateContributions = user.contributionsCollection.restrictedContributionsCount || 0;
+  const publicCommits = user.contributionsCollection?.totalCommitContributions || 0;
+  const privateContributions = user.contributionsCollection?.restrictedContributionsCount || 0;
   const totalCommits = publicCommits + privateContributions;
-  const prs = user.pullRequests.totalCount;
-  const issues = user.issues.totalCount;
-  const reviews = user.contributionsCollection.totalPullRequestReviewContributions || 0;
-  const stars = user.repositories.nodes.reduce((acc, r) => acc + (r.stargazers?.totalCount || 0), 0);
-  const followers = user.followers.totalCount;
+  const prs = user.pullRequests?.totalCount || 0;
+  const issues = user.issues?.totalCount || 0;
+  const reviews = user.contributionsCollection?.totalPullRequestReviewContributions || 0;
+  const repoNodes = (user.repositories && user.repositories.nodes) ? user.repositories.nodes : [];
+  const stars = repoNodes.reduce((acc, r) => acc + (r && r.stargazers && typeof r.stargazers.totalCount === 'number' ? r.stargazers.totalCount : 0), 0);
+  const followers = user.followers?.totalCount || 0;
 
   console.log(`Public commits: ${publicCommits}, Private contributions: ${privateContributions}, Total: ${totalCommits}`);
 
