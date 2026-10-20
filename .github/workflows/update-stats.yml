@@ -1,0 +1,47 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
+  workflow_dispatch:     # Allows manual run anytime
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=IMROVOID&show_icons=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363D&count_private=true&border_radius=11
+          path: assets/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=IMROVOID&layout=compact&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&border_color=30363D&border_radius=9&count_private=true
+          path: assets/top_langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: IMROVOID
+          options: bg_color=0D1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&hide_border=false&radius=12
+          output_path: assets/activity_graph.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/top_langs.svg assets/activity_graph.svg
+          git diff --staged --quiet || (git commit -m "chore: auto-update profile stats [skip ci]" && git push)
