@@ -39,6 +39,11 @@ jobs:
           output_path: assets/activity_graph.svg
           token: ${{ secrets.STATS_TOKEN }}
 
+      - name: Include Private Commits in Stats Card
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: node scripts/patch-stats.js
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
