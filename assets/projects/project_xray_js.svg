@@ -1,0 +1,64 @@
+<svg width="490" height="104" viewBox="0 0 490 104" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .card-wrap {
+      animation: fadeInUp 0.65s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+    .card-border {
+      transition: stroke 0.25s ease, stroke-width 0.25s ease;
+    }
+    .card-wrap:hover .card-border {
+      stroke: #58A6FF;
+      stroke-width: 1.5;
+    }
+  </style>
+
+  <g class="card-wrap">
+    <!-- Card Base Background (Matching My Services rect rx=12) -->
+    <rect x="0.5" y="0.5" width="489" height="103" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="1" class="card-border" />
+
+    <!-- Icon Container (Matching My Services: 48x48 rx=6 fill=#161b22) -->
+    <rect x="20" y="28" width="48" height="48" rx="6" fill="#161b22" />
+    <g transform="translate(32, 40)">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="#ffffff"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <rect width="6" height="6" x="16" y="16" rx="1" />
+  <rect width="6" height="6" x="2" y="16" rx="1" />
+  <rect width="6" height="6" x="9" y="2" rx="1" />
+  <path d="M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3" />
+  <path d="M12 12V8" />
+      </svg>
+    </g>
+
+    <!-- Project Title -->
+    <text x="86" y="48" font-family="-apple-system, system-ui, sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Xray-js</text>
+
+    <!-- External Link Arrow Indicator -->
+    <g transform="translate(456, 22)" fill="none" stroke="#8B949E" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
+      <path d="M 2 10 L 10 2" />
+      <path d="M 4 2 L 10 2 L 10 8" />
+    </g>
+
+    <!-- Description Lines (Matching My Services font & color) -->
+    <text x="86" y="70" font-family="-apple-system, system-ui, sans-serif" font-size="13" fill="#8b949e">Run Xray-core directly in your browser via WebAssembly.</text>
+    <text x="86" y="88" font-family="-apple-system, system-ui, sans-serif" font-size="13" fill="#8b949e">Real-time configuration validator, editor, and live playground.</text>
+  </g>
+</svg>

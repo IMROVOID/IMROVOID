@@ -26,7 +26,7 @@ Alongside traditional software engineering, I have practical experience in visua
 ###
 
 <div align="center">
-  <img src="assets/skills.svg?v=2" width="100%" alt="Languages and tools" />
+  <img src="assets/skills.svg?v=4" width="100%" alt="Languages and tools" />
 </div>
 
 ###
@@ -47,6 +47,46 @@ Alongside traditional software engineering, I have practical experience in visua
 
 <div align="center">
   <img src="assets/other_services.svg?v=3" alt="Other Services" width="100%" />
+</div>
+
+###
+
+<h3 align="left">My Projects</h3>
+
+###
+
+<h4 align="left">Featured &amp; Flagship Applications</h4>
+
+###
+
+<div align="center">
+  <a href="https://github.com/IMROVOID/Zenth"><img src="assets/projects/project_zenth.svg?v=1" width="49%" alt="Zenth" /></a><img src="assets/spacer.svg" width="1.5%" height="1" /><a href="https://github.com/IMROVOID/SubStream-AI"><img src="assets/projects/project_substream_ai.svg?v=1" width="49%" alt="SubStream AI" /></a>
+  <img src="assets/spacer.svg" width="100%" height="16" />
+  <a href="https://github.com/IMROVOID/OpenClaw-for-Free"><img src="assets/projects/project_openclaw_for_free.svg?v=1" width="49%" alt="OpenClaw-for-Free" /></a>
+</div>
+
+###
+
+<h4 align="left">AI Gateways &amp; Reverse Routers (*2API Suite)</h4>
+
+###
+
+<div align="center">
+  <a href="https://github.com/IMROVOID/OpenCode2API"><img src="assets/projects/project_opencode2api.svg?v=1" width="49%" alt="OpenCode2API" /></a><img src="assets/spacer.svg" width="1.5%" height="1" /><a href="https://github.com/IMROVOID/Omnirush2API"><img src="assets/projects/project_omnirush2api.svg?v=1" width="49%" alt="Omnirush2API" /></a>
+  <img src="assets/spacer.svg" width="100%" height="16" />
+  <a href="https://github.com/IMROVOID/Freebuff2API"><img src="assets/projects/project_freebuff2api.svg?v=1" width="49%" alt="Freebuff2API" /></a><img src="assets/spacer.svg" width="1.5%" height="1" /><a href="https://github.com/IMROVOID/Web2API"><img src="assets/projects/project_web2api.svg?v=1" width="49%" alt="Web2API" /></a>
+  <img src="assets/spacer.svg" width="100%" height="16" />
+  <a href="https://github.com/IMROVOID/MiMo2API"><img src="assets/projects/project_mimo2api.svg?v=1" width="49%" alt="MiMo2API" /></a>
+</div>
+
+###
+
+<h4 align="left">Developer Utilities &amp; Mini-Tools</h4>
+
+###
+
+<div align="center">
+  <a href="https://github.com/IMROVOID/Xray-js"><img src="assets/projects/project_xray_js.svg?v=1" width="49%" alt="Xray-js" /></a><img src="assets/spacer.svg" width="1.5%" height="1" /><a href="https://github.com/IMROVOID/Github-File-Downloader"><img src="assets/projects/project_github_file_downloader.svg?v=1" width="49%" alt="Github-File-Downloader" /></a>
 </div>
 
 ###
