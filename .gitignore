@@ -1,6 +1,7 @@
 /.agents
 /specs
 *.py
+!generate_support.py
 /.specify
 temp_langs.svg
 temp_stats.svg
